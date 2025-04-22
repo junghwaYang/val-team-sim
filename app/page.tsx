@@ -48,9 +48,9 @@ export default function Home() {
   return (
     <main className="max-w-2xl mx-auto p-6 space-y-4">
       <h1 className="text-xl font-bold">발로란트 팀 밸런스 시뮬레이터</h1>
-      <div className="flex flex-wrap justify-between gap-y-2">
+      <div className="flex flex-wrap max-md:flex-col justify-between gap-y-2">
         {players.map((p, i) => (
-          <div key={i} className="flex gap-2 items-center w-1/2">
+          <div key={i} className="flex gap-2 items-center w-1/2 max-md:w-full">
             <span className="w-24">Player {i + 1}</span>
             <Select value={p.tier} onValueChange={value => handleChange(i, 'tier', value)}>
               <SelectTrigger className="w-1/3">
