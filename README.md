@@ -7,6 +7,12 @@
 
 ---
 
+## 배포 현황
+![GitHub release](https://github.com/junghwaYang/val-team-sim)
+![GitHub license](https://github.com/junghwaYang/val-team-sim)
+
+---
+
 ## 🚀 기술 스택
 
 - **Next.js 14** (App Router 기반)
