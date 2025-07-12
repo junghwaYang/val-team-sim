@@ -8,8 +8,8 @@
 ---
 
 ## 배포 현황
-![GitHub release](https://github.com/junghwaYang/val-team-sim)
-![GitHub license](https://github.com/junghwaYang/val-team-sim)
+![GitHub release](https://img.shields.io/github/v/release/junghwaYang/val-team-sim)
+![GitHub license](https://img.shields.io/github/license/junghwaYang/val-team-sim)
 
 ---
 
